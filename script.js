@@ -1,4 +1,4 @@
-const phrases = ['GPU network capacity online 50% faster', '300+ long-running changes · zero failed rollouts', '95% less network configuration drift', 'TLA+ checks verify state transitions', 'Reconcile, recover, and keep moving'];
+const phrases = ['GPU network capacity online 50% faster', '300+ long-running changes · zero failed rollouts', '95% of managed resources drift-free', 'TLA+ checks verify state transitions', 'Reconcile, recover, and keep moving'];
 const rotatingText = document.querySelector('#rotatingText');
 let phraseIndex = 0;
 setInterval(() => {
